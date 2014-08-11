@@ -599,7 +599,8 @@ hi link		MyTagListTagScope	Constant
 hi TabLineFill guifg=#9098a0 guibg=#111111
 hi TabLine guifg=black guibg=#888888
 hi TabLineSel guifg=white guibg=#202020 gui=bold
-
+hi IndentGuidesOdd  ctermbg=black
+hi IndentGuidesEven ctermbg=darkgrey
 " COLOR LINKS DEFINE END
 
 " vim:et:nosta:sw=2:ts=8:
