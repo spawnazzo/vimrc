@@ -179,3 +179,6 @@ hi link phpDocParam        vimCommentTitle
 hi link diffAdded          DiffAdd
 hi link diffChanged        DiffChange
 hi link diffRemoved        DiffDelete
+hi IndentGuidesOdd         guibg=black
+hi IndentGuidesEven        guibg=darkgrey
+
